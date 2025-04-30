@@ -1,17 +1,17 @@
 {
     "name": "chens-py-land-block-mod",
-    "version": "0.3.0",
-    "title": "Chens Py Land Block Mod",
-    "author": "JackieChen",
+    "version": "0.4.0",
+    "title": "Chens Pyanodon Land Block Mod",
+    "author": "GeekieChen",
     "dependencies": [
-        "chens-modpack-py-auxiliary-others",
+        "chens-py-sea-block-mod-core",
         "chens-waterfill-mod",
         "pump-anywhere",
 
         "! chens-py-sea-block-mod",
         "! PyBlock"
     ],
-    "description": "这个是我做的Py陆块模组。",
+    "description": "这个是我做的 Pyanodon 陆块模组。",
     "factorio_version": "2.0",
     "license": "MIT"
 }
